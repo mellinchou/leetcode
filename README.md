@@ -14,6 +14,7 @@ No. | Questions | Difficulty | Status | Language
 14  | Longest Common Prefix                          | Easy   | Accepted | Python
 46  | Permutations                                   | Medium | Accepted | Python
 160 | Intersection of Two Linked Lists               | Easy   | Accepted | Python
+237 | Delete Node in a Linked List                   | Easy   | Accepted | Python
 344 | Reverse String                                 | Easy   | Accepted | Python
 347 | Top K Frequent Elements                        | Medium | Accepted | Python
 349 | Intersection of Two Arrays                     | Easy   | Accepted | Python
