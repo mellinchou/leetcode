@@ -12,6 +12,7 @@ No. | Questions | Difficulty | Status | Language
 7   | Reverse Integer                                | Medium | Accepted | Java
 13  | Roman to Integer                               | Easy   | Accepted | Python
 14  | Longest Common Prefix                          | Easy   | Accepted | Python
+20  | Valid Parentheses                              | Easy   | Accepted | Python
 46  | Permutations                                   | Medium | Accepted | Python
 160 | Intersection of Two Linked Lists               | Easy   | Accepted | Python
 237 | Delete Node in a Linked List                   | Easy   | Accepted | Python
