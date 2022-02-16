@@ -10,6 +10,7 @@ No. | Questions | Difficulty | Status | Language
 2   | Add Two Numbers                                | Medium | Accepted | Java
 3   | Longest Substring Without Repeating Characters | Medium | Accepted | Python
 7   | Reverse Integer                                | Medium | Accepted | Java
+8   | String to Integer (atoi)                       | Medium | Accepted | Python
 13  | Roman to Integer                               | Easy   | Accepted | Python
 14  | Longest Common Prefix                          | Easy   | Accepted | Python
 20  | Valid Parentheses                              | Easy   | Accepted | Python
