@@ -6,7 +6,7 @@ Accepted | Easy | Medium | Hard
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
-1   | Two Sum                                        | Easy   | Accepted | Java
+1   | Two Sum                                        | Easy   | Accepted | Java, Python
 2   | Add Two Numbers                                | Medium | Accepted | Java
 3   | Longest Substring Without Repeating Characters | Medium | Accepted | Python
 7   | Reverse Integer                                | Medium | Accepted | Java
