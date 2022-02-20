@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-21       | 12   | 9      | 0
+23       | 13   | 10     | 0
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
@@ -27,3 +27,5 @@ No. | Questions | Difficulty | Status | Language
 1678| Goal Parser Interpretation                     | Easy   | Accepted | Python
 2164| Sort Even and Odd Indices Independently        | Easy   | Accepted | Python
 2165| Smallest Value of the Rearranged Number        | Medium | Accepted | Python
+2180| Count Integers With Even Digit Sum             | Easy   | Accepted | Python
+2181| Merge Nodes in Between Zeros                   | Medium | Accepted | Python
