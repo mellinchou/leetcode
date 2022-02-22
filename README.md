@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-24       | 13   | 11     | 0
+25       | 14   | 11     | 0
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
@@ -18,6 +18,7 @@ No. | Questions | Difficulty | Status | Language
 20  | Valid Parentheses                              | Easy   | Accepted | Python
 21  | Merge Two Sorted Lists                         | Easy   | Accepted | Python
 46  | Permutations                                   | Medium | Accepted | Python
+66  | Plus One                                       | Easy   | Accepted | Python
 160 | Intersection of Two Linked Lists               | Easy   | Accepted | Python
 237 | Delete Node in a Linked List                   | Easy   | Accepted | Python
 344 | Reverse String                                 | Easy   | Accepted | Python
