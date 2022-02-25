@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-26       | 14   | 12     | 0
+28       | 14   | 14     | 0
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
@@ -15,6 +15,7 @@ No. | Questions | Difficulty | Status | Language
 13  | Roman to Integer                               | Easy   | Accepted | Python
 14  | Longest Common Prefix                          | Easy   | Accepted | Python
 17  | Letter Combinations of a Phone Number          | Medium | Accepted | Python
+19  | Remove Nth Node From End of List               | Medium | Accepted | Python
 20  | Valid Parentheses                              | Easy   | Accepted | Python
 21  | Merge Two Sorted Lists                         | Easy   | Accepted | Python
 46  | Permutations                                   | Medium | Accepted | Python
