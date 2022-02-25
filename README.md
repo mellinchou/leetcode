@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-28       | 14   | 14     | 0
+29       | 15   | 14     | 0
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
@@ -21,6 +21,7 @@ No. | Questions | Difficulty | Status | Language
 46  | Permutations                                   | Medium | Accepted | Python
 56  | Merge Intervals                                | Medium | Accepted | Python
 66  | Plus One                                       | Easy   | Accepted | Python
+141 | Linked List Cycle                              | Easy   | Accepted | Python
 160 | Intersection of Two Linked Lists               | Easy   | Accepted | Python
 237 | Delete Node in a Linked List                   | Easy   | Accepted | Python
 344 | Reverse String                                 | Easy   | Accepted | Python
