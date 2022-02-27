@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-29       | 15   | 14     | 0
+30       | 15   | 15     | 0
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
@@ -19,6 +19,7 @@ No. | Questions | Difficulty | Status | Language
 20  | Valid Parentheses                              | Easy   | Accepted | Python
 21  | Merge Two Sorted Lists                         | Easy   | Accepted | Python
 46  | Permutations                                   | Medium | Accepted | Python
+48  | Rotate Image                                   | Medium | Accepted | Python
 56  | Merge Intervals                                | Medium | Accepted | Python
 66  | Plus One                                       | Easy   | Accepted | Python
 141 | Linked List Cycle                              | Easy   | Accepted | Python
