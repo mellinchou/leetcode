@@ -9,7 +9,5 @@ def countBits(n: int) -> List[int]:
             index+=1
         carry+=1
     return res
-    # for i in range(2**carry, 2**(carry+1)):
-    #     print (i)
 
 print(countBits(5))

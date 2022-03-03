@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-33       | 17   | 16     | 0
+34       | 17   | 17     | 0
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
@@ -30,7 +30,7 @@ No. | Questions | Difficulty | Status | Language
 347 | Top K Frequent Elements                        | Medium | Accepted | Python
 349 | Intersection of Two Arrays                     | Easy   | Accepted | Python
 338 | Counting Bits                                  | Easy   | Accepted | Python
-392 | Is Subsequence                                 | Easy   | Accepted | Python
+413 | Arithmetic Slices                              | Medium | Accepted | Python
 435 | Non-overlapping Intervals                      | Medium | Accepted | Python
 692 | Top K Frequent Words                           | Medium | Accepted | Python
 1523| Count Odd Numbers in an Interval Range         | Easy   | Accepted | Python
