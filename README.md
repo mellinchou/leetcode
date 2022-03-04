@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-34       | 17   | 17     | 0
+35       | 17   | 18     | 0
 
 No. | Questions | Difficulty | Status | Language
 ----|------------------------------------------------|--------|----------|--------
@@ -34,6 +34,7 @@ No. | Questions | Difficulty | Status | Language
 413 | Arithmetic Slices                              | Medium | Accepted | Python
 435 | Non-overlapping Intervals                      | Medium | Accepted | Python
 692 | Top K Frequent Words                           | Medium | Accepted | Python
+799 | Champagne Tower                                | Medium | Accepted | Python
 1523| Count Odd Numbers in an Interval Range         | Easy   | Accepted | Python
 1678| Goal Parser Interpretation                     | Easy   | Accepted | Python
 2164| Sort Even and Odd Indices Independently        | Easy   | Accepted | Python
