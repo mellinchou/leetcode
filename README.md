@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-36       | 17   | 19     | 0
+37       | 17   | 19     | 1
 
 No. | Questions | Difficulty | Status | Language | Review
 ----|------------------------------------------------|--------|----------|--------------|--
@@ -36,6 +36,7 @@ No. | Questions | Difficulty | Status | Language | Review
 692 | Top K Frequent Words                           | Medium | Accepted | Python       |
 740 | Delete and Earn                                | Medium | Accepted | Python       | Y
 799 | Champagne Tower                                | Medium | Accepted | Python       | Y
+1359| Count All Valid Pickup and Delivery Options    | Hard   | Accepted | Python       | Y
 1523| Count Odd Numbers in an Interval Range         | Easy   | Accepted | Python       |
 1678| Goal Parser Interpretation                     | Easy   | Accepted | Python       |
 2164| Sort Even and Odd Indices Independently        | Easy   | Accepted | Python       |
