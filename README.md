@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-38       | 18   | 19     | 1
+39       | 19   | 19     | 1
 
 No. | Questions | Difficulty | Status | Language | Review
 ----|------------------------------------------------|--------|----------|--------------|--
@@ -19,6 +19,7 @@ No. | Questions | Difficulty | Status | Language | Review
 20  | Valid Parentheses                              | Easy   | Accepted | Python       |
 21  | Merge Two Sorted Lists                         | Easy   | Accepted | Python       |
 26  | Remove Duplicates from Sorted Array            | Easy   | Accepted | Python       |
+27  | Remove Element                                 | Easy   | Accepted | Python       |
 46  | Permutations                                   | Medium | Accepted | Python       |
 48  | Rotate Image                                   | Medium | Accepted | Python       | Y
 56  | Merge Intervals                                | Medium | Accepted | Python       |
