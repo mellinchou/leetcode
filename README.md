@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-40       | 19   | 20     | 1
+41       | 20   | 20     | 1
 
 No. | Questions | Difficulty | Status | Language | Review
 ----|------------------------------------------------|--------|----------|--------------|--
@@ -24,6 +24,7 @@ No. | Questions | Difficulty | Status | Language | Review
 48  | Rotate Image                                   | Medium | Accepted | Python       | Y
 56  | Merge Intervals                                | Medium | Accepted | Python       |
 66  | Plus One                                       | Easy   | Accepted | Python       |
+70  | Climbing Stairs                                | Easy   | Accepted | Python       |
 82  | Remove Duplicates from Sorted List II          | Medium | Accepted | Python       |
 98  | Validate Binary Search Tree                    | Medium | Accepted | Python       |
 141 | Linked List Cycle                              | Easy   | Accepted | Python       |
