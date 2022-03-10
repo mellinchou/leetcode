@@ -7,7 +7,7 @@ Accepted | Easy | Medium | Hard
 No. | Questions | Difficulty | Status | Language | Review
 ----|------------------------------------------------|--------|----------|--------------|--
 1   | Two Sum                                        | Easy   | Accepted | Java, Python |
-2   | Add Two Numbers                                | Medium | Accepted | Java         |
+2   | Add Two Numbers                                | Medium | Accepted | Java, Python |
 3   | Longest Substring Without Repeating Characters | Medium | Accepted | Python       | Y
 7   | Reverse Integer                                | Medium | Accepted | Java         |
 8   | String to Integer (atoi)                       | Medium | Accepted | Python       |
