@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-42       | 20   | 21     | 1
+43       | 20   | 22     | 1
 
 No. | Questions | Difficulty | Status | Language | Review
 ----|------------------------------------------------|--------|----------|--------------|--
@@ -28,6 +28,7 @@ No. | Questions | Difficulty | Status | Language | Review
 70  | Climbing Stairs                                | Easy   | Accepted | Python       |
 82  | Remove Duplicates from Sorted List II          | Medium | Accepted | Python       |
 98  | Validate Binary Search Tree                    | Medium | Accepted | Python       |
+138 | Copy List with Random Pointer                  | Medium | Accepted | Python       |
 141 | Linked List Cycle                              | Easy   | Accepted | Python       |
 160 | Intersection of Two Linked Lists               | Easy   | Accepted | Python       |
 237 | Delete Node in a Linked List                   | Easy   | Accepted | Python       |
