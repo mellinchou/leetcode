@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-44       | 21   | 22     | 1
+45       | 21   | 23     | 1
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -21,6 +21,7 @@ No. | Questions | Difficulty | Language | Review
 26  | Remove Duplicates from Sorted Array            | Easy   | Python       |
 27  | Remove Element                                 | Easy   | Python       |
 35  | Search Insert Position                         | Easy   | Python       | Y
+45  | Simplify Path                                  | Medium | Python       | Y
 46  | Permutations                                   | Medium | Python       |
 48  | Rotate Image                                   | Medium | Python       | Y
 56  | Merge Intervals                                | Medium | Python       |
