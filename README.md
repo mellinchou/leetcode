@@ -44,6 +44,7 @@ No. | Questions | Difficulty | Language | Review
 692 | Top K Frequent Words                           | Medium | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
 799 | Champagne Tower                                | Medium | Python       | Y
+1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
 1678| Goal Parser Interpretation                     | Easy   | Python       |
