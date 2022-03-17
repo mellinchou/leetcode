@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-47       | 21   | 25     | 1
+48       | 21   | 26     | 1
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -44,6 +44,7 @@ No. | Questions | Difficulty | Language | Review
 692 | Top K Frequent Words                           | Medium | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
 799 | Champagne Tower                                | Medium | Python       | Y
+856 | Score of Parentheses                           | Medium | Python       | Y
 946 | Validate Stack Sequences                       | Medium | Python       | 
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
