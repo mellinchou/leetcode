@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-48       | 21   | 26     | 1
+49       | 21   | 27     | 1
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -34,6 +34,7 @@ No. | Questions | Difficulty | Language | Review
 141 | Linked List Cycle                              | Easy   | Python       |
 160 | Intersection of Two Linked Lists               | Easy   | Python       |
 237 | Delete Node in a Linked List                   | Easy   | Python       |
+316 | Remove Duplicate Letters                       | Medium | Python       | Y
 344 | Reverse String                                 | Easy   | Python       |
 347 | Top K Frequent Elements                        | Medium | Python       |
 349 | Intersection of Two Arrays                     | Easy   | Python       | Y
