@@ -48,6 +48,7 @@ No. | Questions | Difficulty | Language | Review
 856 | Score of Parentheses                           | Medium | Python       | Y
 895 | Maximum Frequency Stack                        | Hard   | Python       | Y
 946 | Validate Stack Sequences                       | Medium | Python       | 
+1007| Minimum Domino Rotations For Equal Row         | Medium | Python       | Y
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
