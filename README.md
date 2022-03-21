@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-50       | 21   | 27     | 2
+51       | 21   | 28     | 2
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -44,6 +44,7 @@ No. | Questions | Difficulty | Language | Review
 435 | Non-overlapping Intervals                      | Medium | Python       |
 692 | Top K Frequent Words                           | Medium | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
+763 | Partition Labels                               | Medium | Python       | 
 799 | Champagne Tower                                | Medium | Python       | Y
 856 | Score of Parentheses                           | Medium | Python       | Y
 895 | Maximum Frequency Stack                        | Hard   | Python       | Y
