@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-51       | 21   | 28     | 2
+53       | 21   | 30     | 2
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -53,6 +53,7 @@ No. | Questions | Difficulty | Language | Review
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
+1663| Smallest String With A Given Numeric Value     | Medium | Python       |
 1678| Goal Parser Interpretation                     | Easy   | Python       |
 2164| Sort Even and Odd Indices Independently        | Easy   | Python       |
 2165| Smallest Value of the Rearranged Number        | Medium | Python       |
