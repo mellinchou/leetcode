@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-53       | 21   | 30     | 2
+54       | 21   | 31     | 2
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -49,6 +49,7 @@ No. | Questions | Difficulty | Language | Review
 856 | Score of Parentheses                           | Medium | Python       | Y
 895 | Maximum Frequency Stack                        | Hard   | Python       | Y
 946 | Validate Stack Sequences                       | Medium | Python       | 
+991 | Broke Calculator                               | Medium | Python       | Y
 1007| Minimum Domino Rotations For Equal Row         | Medium | Python       | Y
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
