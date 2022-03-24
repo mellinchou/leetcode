@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-54       | 21   | 31     | 2
+55       | 21   | 32     | 2
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -47,6 +47,7 @@ No. | Questions | Difficulty | Language | Review
 763 | Partition Labels                               | Medium | Python       | 
 799 | Champagne Tower                                | Medium | Python       | Y
 856 | Score of Parentheses                           | Medium | Python       | Y
+881 | Boats to Save People                           | Medium | Python       |
 895 | Maximum Frequency Stack                        | Hard   | Python       | Y
 946 | Validate Stack Sequences                       | Medium | Python       | 
 991 | Broke Calculator                               | Medium | Python       | Y
