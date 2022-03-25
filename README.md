@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-55       | 21   | 32     | 2
+56       | 21   | 33     | 2
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -52,6 +52,7 @@ No. | Questions | Difficulty | Language | Review
 946 | Validate Stack Sequences                       | Medium | Python       | 
 991 | Broke Calculator                               | Medium | Python       | Y
 1007| Minimum Domino Rotations For Equal Row         | Medium | Python       | Y
+1029| Two City Scheduling                            | Medium | Python       |
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
