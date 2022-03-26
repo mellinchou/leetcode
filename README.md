@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-56       | 21   | 33     | 2
+57       | 22   | 33     | 2
 
 No. | Questions | Difficulty | Language | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -43,6 +43,7 @@ No. | Questions | Difficulty | Language | Review
 413 | Arithmetic Slices                              | Medium | Python       |
 435 | Non-overlapping Intervals                      | Medium | Python       |
 692 | Top K Frequent Words                           | Medium | Python       |
+704 | Binary Search                                  | Easy   | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
 763 | Partition Labels                               | Medium | Python       | 
 799 | Champagne Tower                                | Medium | Python       | Y
