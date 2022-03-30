@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-59       | 22   | 35     | 2
+61       | 23   | 36     | 2
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -28,6 +28,7 @@ No. | Questions                                  | Difficulty | Language     | R
 61  | Rotate List                                    | Medium | Python       |
 66  | Plus One                                       | Easy   | Python       |
 70  | Climbing Stairs                                | Easy   | Python       |
+81  | Search a 2D Matrix                             | Medium | Python       | 
 81  | Search in Rotated Sorted Array II              | Medium | Python       | Y
 82  | Remove Duplicates from Sorted List II          | Medium | Python       |
 98  | Validate Binary Search Tree                    | Medium | Python       |
