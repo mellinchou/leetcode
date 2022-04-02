@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-62       | 23   | 36     | 3
+63       | 24   | 36     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -46,6 +46,7 @@ No. | Questions                                  | Difficulty | Language     | R
 410 | Split Array Largest Sum                        | Hard   | Python       | Y
 413 | Arithmetic Slices                              | Medium | Python       |
 435 | Non-overlapping Intervals                      | Medium | Python       |
+680 | Valid Palindrome II                            | Easy   | Python       |
 692 | Top K Frequent Words                           | Medium | Python       |
 704 | Binary Search                                  | Easy   | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
