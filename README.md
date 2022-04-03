@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-63       | 24   | 36     | 3
+64       | 24   | 37     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -20,6 +20,7 @@ No. | Questions                                  | Difficulty | Language     | R
 21  | Merge Two Sorted Lists                         | Easy   | Python       |
 26  | Remove Duplicates from Sorted Array            | Easy   | Python       |
 27  | Remove Element                                 | Easy   | Python       |
+31  | Next Permutation                               | Medium | Python       | Y
 35  | Search Insert Position                         | Easy   | Python       | Y
 45  | Simplify Path                                  | Medium | Python       | Y
 46  | Permutations                                   | Medium | Python       |
