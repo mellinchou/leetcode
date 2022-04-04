@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-64       | 24   | 37     | 3
+65       | 24   | 38     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -66,6 +66,7 @@ No. | Questions                                  | Difficulty | Language     | R
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
 1663| Smallest String With A Given Numeric Value     | Medium | Python       |
 1678| Goal Parser Interpretation                     | Easy   | Python       |
+1721| Swapping Nodes in a Linked List                | Medium | Python       | Y
 2164| Sort Even and Odd Indices Independently        | Easy   | Python       |
 2165| Smallest Value of the Rearranged Number        | Medium | Python       |
 2180| Count Integers With Even Digit Sum             | Easy   | Python       |
