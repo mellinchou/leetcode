@@ -5,22 +5,15 @@ class ListNode:
         self.next = next
 
 def swapNodes(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        dummy = pre_right = pre_left = ListNode(next=head)
-        right = left = head
-        for i in range(k-1):
-            pre_left = left
-            left = left.next
-
-        null_checker = left
-
-        while null_checker.next:
-            pre_right = right
-            right = right.next
-            null_checker = null_checker.next
-
-        if left == right:
-            return head
-
-        pre_left.next, pre_right.next = right, left
-        left.next, right.next = right.next, left.next
-        return dummy.next  
+        dummy=k_end=head
+        index=1
+        
+        while dummy!=None:
+            if index==k:
+                k_begin=dummy
+            elif index>k:
+                k_end=k_end.next
+            index+=1
+            dummy=dummy.next
+        k_begin.val, k_end.val= k_end.val, k_begin.val
+        return head

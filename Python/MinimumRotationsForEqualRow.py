@@ -6,7 +6,6 @@ def minDominoRotations(tops: List[int], bottoms: List[int]) -> int:
     for a,b in zip(tops,bottoms):
         if a==b:
             same[a]+=1
-    print(same)
     for i in range(1,7):
         if topCount[i]+botCount[i]-same[i] == len(tops):
             return min(topCount[i], botCount[i])-same[i]
