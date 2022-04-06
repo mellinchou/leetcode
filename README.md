@@ -56,6 +56,7 @@ No. | Questions                                  | Difficulty | Language     | R
 856 | Score of Parentheses                           | Medium | Python       | Y
 881 | Boats to Save People                           | Medium | Python       |
 895 | Maximum Frequency Stack                        | Hard   | Python       | Y
+923 | 3Sum With Multiplicity                         | Medium | Python       | Y
 946 | Validate Stack Sequences                       | Medium | Python       | 
 991 | Broke Calculator                               | Medium | Python       | Y
 1007| Minimum Domino Rotations For Equal Row         | Medium | Python       | Y
