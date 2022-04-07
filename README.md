@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-65       | 24   | 38     | 3
+67       | 25   | 39     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -61,6 +61,7 @@ No. | Questions                                  | Difficulty | Language     | R
 991 | Broke Calculator                               | Medium | Python       | Y
 1007| Minimum Domino Rotations For Equal Row         | Medium | Python       | Y
 1029| Two City Scheduling                            | Medium | Python       |
+1046| Last Stone Weight                              | Easy   | Python       |
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1337| The K Weakest Rows in a Matrix                 | Easy   | Python       | 
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
