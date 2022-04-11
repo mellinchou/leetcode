@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-69       | 27   | 39     | 3
+70       | 28   | 39     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -65,6 +65,7 @@ No. | Questions                                  | Difficulty | Language     | R
 1029| Two City Scheduling                            | Medium | Python       |
 1046| Last Stone Weight                              | Easy   | Python       |
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
+1260| Shift 2D Grid                                  | Easy   | Python       | 
 1337| The K Weakest Rows in a Matrix                 | Easy   | Python       | 
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
