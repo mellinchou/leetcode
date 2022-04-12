@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-70       | 28   | 39     | 3
+71       | 28   | 40     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -38,6 +38,7 @@ No. | Questions                                  | Difficulty | Language     | R
 160 | Intersection of Two Linked Lists               | Easy   | Python       |
 237 | Delete Node in a Linked List                   | Easy   | Python       |
 287 | Find the Duplicate Number                      | Medium | Python       | Y
+289 | Game of Life                                   | Medium | Python       |
 316 | Remove Duplicate Letters                       | Medium | Python       | Y
 344 | Reverse String                                 | Easy   | Python       |
 347 | Top K Frequent Elements                        | Medium | Python       |
