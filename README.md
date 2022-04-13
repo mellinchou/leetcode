@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-71       | 28   | 40     | 3
+72       | 28   | 41     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -26,6 +26,7 @@ No. | Questions                                  | Difficulty | Language     | R
 46  | Permutations                                   | Medium | Python       |
 48  | Rotate Image                                   | Medium | Python       | Y
 56  | Merge Intervals                                | Medium | Python       |
+59  | Spiral Matrix II                               | Medium | Python       | 
 61  | Rotate List                                    | Medium | Python       |
 66  | Plus One                                       | Easy   | Python       |
 70  | Climbing Stairs                                | Easy   | Python       |
