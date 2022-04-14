@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-72       | 28   | 41     | 3
+73       | 29   | 41     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -52,6 +52,7 @@ No. | Questions                                  | Difficulty | Language     | R
 680 | Valid Palindrome II                            | Easy   | Python       |
 682 | Baseball Game                                  | Easy   | Python       |
 692 | Top K Frequent Words                           | Medium | Python       |
+700 | Search in a Binary Search Tree                 | Easy   | Python       |
 703 | Kth Largest Element in a Stream                | Easy   | Python       |
 704 | Binary Search                                  | Easy   | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
