@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-76       | 30s   | 43     | 3
+77       | 30   | 44     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -49,7 +49,7 @@ No. | Questions                                  | Difficulty | Language     | R
 410 | Split Array Largest Sum                        | Hard   | Python       | Y
 413 | Arithmetic Slices                              | Medium | Python       |
 435 | Non-overlapping Intervals                      | Medium | Python       |
-538 | Convert BST to Greater Tree                    | Medium | Python       | Y
+538 | Convert BST to Greater Tree                    | Medium | Python       |
 669 | Trim a Binary Search Tree                      | Medium | Python       |
 680 | Valid Palindrome II                            | Easy   | Python       |
 682 | Baseball Game                                  | Easy   | Python       |
@@ -69,6 +69,7 @@ No. | Questions                                  | Difficulty | Language     | R
 991 | Broke Calculator                               | Medium | Python       | Y
 1007| Minimum Domino Rotations For Equal Row         | Medium | Python       | Y
 1029| Two City Scheduling                            | Medium | Python       |
+1038| Binary Search Tree to Greater Sum Tree         | Medium | Python       |
 1046| Last Stone Weight                              | Easy   | Python       |
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1260| Shift 2D Grid                                  | Easy   | Python       | 
