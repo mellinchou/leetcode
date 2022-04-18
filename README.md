@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-77       | 30   | 44     | 3
+78       | 30   | 45     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -37,6 +37,7 @@ No. | Questions                                  | Difficulty | Language     | R
 138 | Copy List with Random Pointer                  | Medium | Python       |
 141 | Linked List Cycle                              | Easy   | Python       |
 160 | Intersection of Two Linked Lists               | Easy   | Python       |
+230 | Kth Smallest Element in a BST                  | Medium | Python       |
 237 | Delete Node in a Linked List                   | Easy   | Python       |
 287 | Find the Duplicate Number                      | Medium | Python       | Y
 289 | Game of Life                                   | Medium | Python       |
@@ -63,7 +64,7 @@ No. | Questions                                  | Difficulty | Language     | R
 856 | Score of Parentheses                           | Medium | Python       | Y
 881 | Boats to Save People                           | Medium | Python       |
 895 | Maximum Frequency Stack                        | Hard   | Python       | Y
-897 | Increasing Order Search Tree                   | Easy   | Python       | Y
+897 | Increasing Order Search Tree                   | Easy   | Python       |
 923 | 3Sum With Multiplicity                         | Medium | Python       | Y
 946 | Validate Stack Sequences                       | Medium | Python       | 
 991 | Broke Calculator                               | Medium | Python       | Y
