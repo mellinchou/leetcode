@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-81       | 31   | 47     | 3
+82       | 32   | 47     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -61,6 +61,7 @@ No. | Questions                                  | Difficulty | Language     | R
 703 | Kth Largest Element in a Stream                | Easy   | Python       |
 704 | Binary Search                                  | Easy   | Python       |
 704 | Design HashSet                                 | Easy   | Python       |
+705 | Design HashMap                                 | Easy   | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
 763 | Partition Labels                               | Medium | Python       | 
 799 | Champagne Tower                                | Medium | Python       | Y
