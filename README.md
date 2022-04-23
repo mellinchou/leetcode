@@ -52,6 +52,7 @@ No. | Questions                                  | Difficulty | Language     | R
 410 | Split Array Largest Sum                        | Hard   | Python       | Y
 413 | Arithmetic Slices                              | Medium | Python       |
 435 | Non-overlapping Intervals                      | Medium | Python       |
+535 | Encode and Decode TinyURL                      | Medium | Python       |
 538 | Convert BST to Greater Tree                    | Medium | Python       |
 669 | Trim a Binary Search Tree                      | Medium | Python       |
 680 | Valid Palindrome II                            | Easy   | Python       |
