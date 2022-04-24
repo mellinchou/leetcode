@@ -81,6 +81,7 @@ No. | Questions                                  | Difficulty | Language     | R
 1260| Shift 2D Grid                                  | Easy   | Python       | 
 1337| The K Weakest Rows in a Matrix                 | Easy   | Python       | 
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
+1396| Design Underground System                      | Medium | Python       |
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
 1663| Smallest String With A Given Numeric Value     | Medium | Python       |
 1678| Goal Parser Interpretation                     | Easy   | Python       |
