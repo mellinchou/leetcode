@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-82       | 32   | 47     | 3
+83       | 32   | 48     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -41,7 +41,8 @@ No. | Questions                                  | Difficulty | Language     | R
 173 | Binary Search Tree Iterator                    | Medium | Python       |
 230 | Kth Smallest Element in a BST                  | Medium | Python       |
 237 | Delete Node in a Linked List                   | Easy   | Python       |
-287 | Find the Duplicate Number                      | Medium | Python       | Y
+284 | Peeking Iterator                               | Medium | Python       |
+287 | Find the Duplicate Number                      | Medium | Python       | 
 289 | Game of Life                                   | Medium | Python       |
 316 | Remove Duplicate Letters                       | Medium | Python       | Y
 344 | Reverse String                                 | Easy   | Python       |
