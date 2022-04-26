@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-83       | 32   | 48     | 3
+84       | 32   | 49     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -84,6 +84,7 @@ No. | Questions                                  | Difficulty | Language     | R
 1359| Count All Valid Pickup and Delivery Options    | Hard   | Python       | Y
 1396| Design Underground System                      | Medium | Python       |
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
+1584| Min Cost to Connect All Points                 | Medium | Python       | Y
 1663| Smallest String With A Given Numeric Value     | Medium | Python       |
 1678| Goal Parser Interpretation                     | Easy   | Python       |
 1721| Swapping Nodes in a Linked List                | Medium | Python       | Y
