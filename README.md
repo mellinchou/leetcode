@@ -78,6 +78,7 @@ No. | Questions                                  | Difficulty | Language     | R
 1029| Two City Scheduling                            | Medium | Python       |
 1038| Binary Search Tree to Greater Sum Tree         | Medium | Python       |
 1046| Last Stone Weight                              | Easy   | Python       |
+1202| Smallest String With Swaps                     | Medium | Python       | Y
 1249| Minimum Remove to Make Valid Parentheses       | Medium | Python       | Y
 1260| Shift 2D Grid                                  | Easy   | Python       | 
 1337| The K Weakest Rows in a Matrix                 | Easy   | Python       | 
