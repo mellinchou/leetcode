@@ -86,6 +86,7 @@ No. | Questions                                  | Difficulty | Language     | R
 1396| Design Underground System                      | Medium | Python       |
 1523| Count Odd Numbers in an Interval Range         | Easy   | Python       |
 1584| Min Cost to Connect All Points                 | Medium | Python       | Y
+1631| Path With Minimum Effort                       | Medium | Python       | Y
 1663| Smallest String With A Given Numeric Value     | Medium | Python       |
 1678| Goal Parser Interpretation                     | Easy   | Python       |
 1721| Swapping Nodes in a Linked List                | Medium | Python       | Y
