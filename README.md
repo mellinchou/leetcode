@@ -66,6 +66,7 @@ No. | Questions                                  | Difficulty | Language     | R
 705 | Design HashMap                                 | Easy   | Python       |
 740 | Delete and Earn                                | Medium | Python       | Y
 763 | Partition Labels                               | Medium | Python       | 
+785 | Is Graph Bipartite?                            | Medium | Python       | Y
 799 | Champagne Tower                                | Medium | Python       | Y
 856 | Score of Parentheses                           | Medium | Python       | Y
 881 | Boats to Save People                           | Medium | Python       |
