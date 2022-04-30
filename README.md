@@ -2,7 +2,7 @@
 
 Accepted | Easy | Medium | Hard
 ---------|------|--------|-----
-84       | 32   | 49     | 3
+90       | 32   | 55     | 3
 
 No. | Questions                                  | Difficulty | Language     | Review
 ----|------------------------------------------------|--------|--------------|--
@@ -50,6 +50,7 @@ No. | Questions                                  | Difficulty | Language     | R
 349 | Intersection of Two Arrays                     | Easy   | Python       | Y
 338 | Counting Bits                                  | Easy   | Python       |
 392 | Is Subsequence                                 | Easy   | Python       |
+399 | Evaluate Division                              | Medium | Python       | Y
 410 | Split Array Largest Sum                        | Hard   | Python       | Y
 413 | Arithmetic Slices                              | Medium | Python       |
 435 | Non-overlapping Intervals                      | Medium | Python       |
